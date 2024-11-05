@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iqawiuta.github.io/CXa/sitemap_index.txt
+Sitemap: https://iqawiuta.github.io/JoP/sitemap_index.txt
+Sitemap: https://iqawiuta.github.io/Owm/sitemap_index.txt
+Sitemap: https://iqawiuta.github.io/bOL/sitemap_index.txt
